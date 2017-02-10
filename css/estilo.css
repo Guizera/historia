@@ -113,3 +113,28 @@ html,body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
+.referencia {
+   position: relative;
+    background-color:#242424;
+    width: 100%;
+    padding: 3em;
+}
+.referencia a{
+    color: #fff;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    
+}
+.footer {
+    background-color: #000;
+    width: 100%;
+    padding: 2em;
+}
+.footer p {
+    color:#fff;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    
+}
