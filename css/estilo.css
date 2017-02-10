@@ -1,0 +1,115 @@
+/*reset do css*/
+html,body {
+    padding: 0;
+    margin: 0;
+}
+.navbar-dark {
+    background-color: #242424;
+}
+.navbar-dark ul li {
+    
+}
+.navbar-dark ul li a {
+    color: #fff;
+}
+.navbar-dark ul li a:hover {
+    background-color: transparent;
+}
+.navbar {
+    margin-bottom: 0px !important;
+    margin: 0px;
+    z-index: 99;
+}
+.banner {
+    position: relative;
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 760px;
+    padding: 3em;
+}
+
+.banner h1 {
+    margin-top: 20%;
+    color: #fff;
+    font-size: 6em;
+    text-align: center;
+    text-shadow: 5px 5px #242424;
+    font-family: 'Roboto', sans-serif;
+}
+.origem {
+    background-color: #242424;
+    position: relative;
+    width: 100%;
+    padding: 3em;
+}
+.origem h3 {
+    color: #fff;
+    font-size: 42px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+.origem p{
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+   
+}
+.evolucao {
+    background-color: #2f2f2f;
+    position: relative;
+    width: 100%;
+    padding: 3em;
+}
+.evolucao h3 {
+    color: #fff;
+    font-size: 42px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+.evolucao p {
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    
+}
+.historico {
+    width:100%;
+}
+.historico img {
+    width: 100%;
+  
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.historico img:hover {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.historico h3 {
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.historico span {
+    color: #fff;
+     font-size: 1.1em;
+    line-height: 1.1em;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
