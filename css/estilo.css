@@ -126,6 +126,10 @@ html,body {
     font-weight: 400;
     
 }
+.referencia a:hover {
+    text-decoration: none;
+    color: #adadad;
+}
 .footer {
     position: relative;
     background-color: #000;
